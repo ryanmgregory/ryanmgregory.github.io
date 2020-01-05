@@ -1,3 +1,26 @@
 p {
-color: red;
+  color:black;
+}
+
+.job {
+  background-color: lightgrey;
+  padding:20px
+}
+
+.job2 {
+  background-color: lightgrey;
+  padding:20px
+}
+
+.education {
+  background-color: lightgrey:
+    padding:20px
+}
+
+h3 {
+  color: darkblue;
+}
+
+h5 {
+  color: darkgreen;
 }
