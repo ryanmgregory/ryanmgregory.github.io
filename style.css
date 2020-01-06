@@ -24,6 +24,7 @@ h5 {
   margin-top: 15px;
   margin-left: 125px;
   margin-right: 125px;
+  margin-bottom: 15px;
   
   padding: 25px 125px 10px 125px;
   
@@ -37,7 +38,7 @@ hr {
   display: block;
   margin-end: auto;
   margin-start: auto;
-  border: 10px inset;
+  border: 40px inset;
   overflow: hidden;
   margin-before: 0.5em;
   margin-after: 0.5em;
