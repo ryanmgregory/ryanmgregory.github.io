@@ -1,3 +1,4 @@
+  
 p {
   color:black;
 }
@@ -9,12 +10,12 @@ p {
 
 .job2 {
   background-color: lightgrey;
-  padding:20px
+  padding:10px
 }
 
 .education {
-  background-color: lightgrey:
-    padding:20px
+  background-color: lightgrey;
+  padding:10px
 }
 
 h3 {
@@ -32,7 +33,7 @@ h5 {
   
   padding: 25px 125px 10px 125px;
   
-  border-radius: 150px;
+  border-radius: 75px;
   background-color: #61a3d7;
   
   text-align: left;
