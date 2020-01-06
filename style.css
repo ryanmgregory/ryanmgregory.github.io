@@ -18,9 +18,22 @@ p {
 }
 
 h3 {
-  color: darkblue;
+  color: #61a3d7;
 }
 
 h5 {
-  color: darkgreen;
+  color: #054407;
+}
+
+#container{
+  margin-top: 15px;
+  margin-left: 125px;
+  margin-right: 125px;
+  
+  padding: 25px 125px 10px 125px;
+  
+  border-radius: 150px;
+  background-color: #61a3d7;
+  
+  text-align: left;
 }
