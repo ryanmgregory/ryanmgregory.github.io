@@ -33,11 +33,12 @@ h5 {
   text-align: left;
 }
 
-.striped-border {
-        border: 10px dashed #000;
-        width: 50%;
-        margin: auto;
-        margin-top: 5%;
-        margin-bottom: 5%;
+hr { 
+  display: block;
+  margin-end: auto;
+  margin-start: auto;
+  border: 10px inset;
+  overflow: hidden;
+  margin-before: 0.5em;
+  margin-after: 0.5em;
 }
-
